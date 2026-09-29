@@ -173,25 +173,6 @@ identity:
 
 <br/>
 
-## 📈 Activity & GitHub Analytics
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Manukrishna1971&show_icons=true&theme=radical&hide_border=true&bg_color=1a1505&title_color=eb7d00&icon_color=ebe3a7&text_color=e0dcc5" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Manukrishna1971&theme=radical&hide_border=true&background=1a1505&ring=eb7d00&fire=eb7d00&currStreakLabel=ebe3a7" />
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manukrishna1971&layout=compact&theme=radical&hide_border=true&bg_color=1a1505&title_color=eb7d00&text_color=e0dcc5" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Manukrishna1971&theme=github-compact&hide_border=true&bg_color=1a1505&color=eb7d00&line=2c5745&point=ebe3a7" width="100%"/>
-
-</div>
-
-<br/>
-
 ## 🌐 Connect & Collaborate
 
 <div align="center">
